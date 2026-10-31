@@ -57,3 +57,5 @@ Create or update `job_tracker.csv` only if it does not exist; preserve any exist
 ## 4. Review with the user
 
 Summarize what was recorded and list unresolved questions. Ask the user to check `candidate-profile.md` and correct it before relying on `/scrape` or `/apply`. Do not claim setup is complete if the resume could not be read or the user has not been shown the extracted profile.
+
+Tell the user browser-assisted application-form filling is available through the project Playwright MCP configuration. Claude Code may ask them to approve the project MCP server on first use. Never enter their information into a website during setup.
