@@ -1,0 +1,21 @@
+# Personal information and job-search records
+/candidate-profile.md
+/job_tracker.csv
+/documents/applications/*
+!/documents/applications/.gitkeep
+
+# Tailored documents and generated build output
+/cv/main_*.tex
+/cv/*.pdf
+/cv/*.aux
+/cv/*.log
+/cv/*.out
+/cover_letters/cover_*.tex
+!/cover_letters/cover_template.tex
+/cover_letters/*.pdf
+/cover_letters/*.aux
+/cover_letters/*.log
+/cover_letters/*.out
+
+# Local tooling
+**/node_modules/
