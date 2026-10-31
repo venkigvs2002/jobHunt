@@ -9,7 +9,6 @@ Requirements: Claude Code and a resume file (PDF, DOCX, TXT, or another readable
 In PowerShell:
 
 ```powershell
-Set-Location E:\appSec\sister-job-agent
 claude
 ```
 
